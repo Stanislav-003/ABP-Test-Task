@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdQAyi3yYenP0uTFH2ESVdcA4O8eas4kLOFJmBcXLcYEV8SogiZxewzT3mBQ8iGegsY+p/+R+w2zB8ZyC1+ocQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Infrastructure\\ConferenceRoomsReservation.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sever\\.nuget\\packages\\csharpfunctionalextensions\\3.0.0\\csharpfunctionalextensions.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

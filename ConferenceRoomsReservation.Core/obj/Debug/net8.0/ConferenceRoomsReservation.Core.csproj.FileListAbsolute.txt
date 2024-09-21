@@ -1,0 +1,12 @@
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\bin\Debug\net8.0\ConferenceRoomsReservation.Core.deps.json
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\bin\Debug\net8.0\ConferenceRoomsReservation.Core.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\bin\Debug\net8.0\ConferenceRoomsReservation.Core.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.AssemblyInfo.cs
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\refint\ConferenceRoomsReservation.Core.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ref\ConferenceRoomsReservation.Core.dll
