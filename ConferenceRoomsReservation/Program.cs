@@ -26,9 +26,7 @@ builder
     .AddControllers()
     .AddApplicationPart(ConferenceRoomsReservation.Presentation.AssemblyReference.Assembly);
 
-builder.Services.AddScoped<IBookingRepository, BookingRepository>();
-builder.Services.AddScoped<IConferenceRoomRepository, ConferenceRoomRepository>();
-builder.Services.AddScoped<IAddServiceRepository, AddServiceRepository>();
+builder.Services.AddApplicationServices();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();

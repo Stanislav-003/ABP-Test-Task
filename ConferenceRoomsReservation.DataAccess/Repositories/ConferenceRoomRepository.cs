@@ -71,7 +71,7 @@ public class ConferenceRoomRepository : IConferenceRoomRepository
             if (!addServices.Any())
                 return Errors.General.NotFound();
 
-            conferenceRoom.ConferenceRoomAddServices.Clear();
+            //conferenceRoom.ConferenceRoomAddServices.Clear();
             conferenceRoom.ConferenceRoomAddServices = addServices.Select(s => new ConferenceRoomAddServiceEntity
             {
                 AddServiceId = s.Id,

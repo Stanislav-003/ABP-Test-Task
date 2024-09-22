@@ -3,44 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD65C1D7-4706-49BC-9361-6264743603A9}|ConferenceRoomsReservation\\ConferenceRoomsReservation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD65C1D7-4706-49BC-9361-6264743603A9}|ConferenceRoomsReservation\\ConferenceRoomsReservation.csproj|solutionrelative:conferenceroomsreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.presentation\\controllers\\conferenceroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|solutionrelative:conferenceroomsreservation.presentation\\controllers\\conferenceroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\repositories\\conferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\repositories\\conferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\abstractions\\iconferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\abstractions\\iconferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\repositories\\addservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\repositories\\addservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.presentation\\controllers\\conferenceroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|solutionrelative:conferenceroomsreservation.presentation\\controllers\\conferenceroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\bookingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\bookingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\addservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\addservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\bookingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\bookingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\addservicesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\getroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\addservicesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\queries\\getrooms\\addservicesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\abstractions\\iconferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\abstractions\\iconferenceroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\conferenceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\conferenceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\configurations\\conferenceroomconfiguraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,68 +139,16 @@
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\configurations\\conferenceroomaddserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\conferenceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\conferenceroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\repositories\\addservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\repositories\\addservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD65C1D7-4706-49BC-9361-6264743603A9}|ConferenceRoomsReservation\\ConferenceRoomsReservation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD65C1D7-4706-49BC-9361-6264743603A9}|ConferenceRoomsReservation\\ConferenceRoomsReservation.csproj|solutionrelative:conferenceroomsreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.presentation\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.presentation\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|solutionrelative:conferenceroomsreservation.presentation\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\booking\\commands\\createbooking\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\createconferenceroom\\createconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.presentation\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,18 +163,6 @@
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\deleteconferenceroom\\deleteconferenceroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\entities\\conferenceroomaddserviceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\entities\\conferenceroomaddserviceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,11 +171,7 @@
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\entities\\addserviceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\conferenceroom\\commands\\updateconferenceroom\\updateconferenceroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|c:\\users\\sever\\desktop\\conferenceroomsreservation\\conferenceroomsreservation.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}|ConferenceRoomsReservation.Presentation\\ConferenceRoomsReservation.Presentation.csproj|solutionrelative:conferenceroomsreservation.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -173,10 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|solutionrelative:conferenceroomsreservation.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C8B1888-6467-4409-82AA-DF0C0C9DB262}|ConferenceRoomsReservation.Application\\ConferenceRoomsReservation.Application.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -197,10 +205,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.dataaccess\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B9C887-FDCF-4491-9859-667792EEF2B1}|ConferenceRoomsReservation.DataAccess\\ConferenceRoomsReservation.DataAccess.csproj|solutionrelative:conferenceroomsreservation.dataaccess\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\models\\addservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|solutionrelative:conferenceroomsreservation.core\\models\\addservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06325992-CDF4-4091-97DF-D5A71B435ABD}|ConferenceRoomsReservation.Core\\ConferenceRoomsReservation.Core.csproj|C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\conferenceroomsreservation.core\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -238,7 +242,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -246,29 +250,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetRoomsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAArwB4AAABJAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateConferenceRoomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:17:31.153Z",
+              "WhenOpened": "2024-09-21T14:39:52.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AddServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA8wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:42:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ConferenceRoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\ConferenceRoomRepository.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Repositories\\ConferenceRoomRepository.cs",
               "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\ConferenceRoomRepository.cs",
               "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Repositories\\ConferenceRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:56:22.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T19:56:22.316Z"
             },
             {
               "$type": "Document",
@@ -278,326 +293,26 @@
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\Controllers\\ConferenceRoomsController.cs",
               "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Controllers\\ConferenceRoomsController.cs",
               "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\Controllers\\ConferenceRoomsController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFIAAAAlAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:05:55.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:05:55.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetRoomsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:08:32.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IConferenceRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAB0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:27:29.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookingTime.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:21:54.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetRoomsResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:10:56.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetRoomsRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:49:03.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetRoomResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:40:57.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddServicesResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:48:00.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ConferenceRoomConfiguraton.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:50:17.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T18:56:49.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddServiceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:28:58.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConferenceRoomAddServiceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T10:06:51.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ConferenceRoom.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:15:08.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateConferenceRoomCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommandHandler.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAlwEIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T14:39:52.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\UnitOfWork.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:36:41.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Repositories\\AddServiceRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAewA8AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:42:55.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DataBaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:23:42.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation\\Program.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation\\Program.cs",
               "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation\\Program.cs",
               "RelativeToolTip": "ConferenceRoomsReservation\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T19:40:03.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateConferenceRoomCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:44:07.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Error.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Shared\\Error.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Shared\\Error.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Shared\\Error.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Shared\\Error.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIA5wB8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:57:35.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateBookingRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:06:00.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBIAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:01:50.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateBookingCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:05:03.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateBookingCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:05:32.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswCkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:18:30.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 5,
               "Title": "CreateConferenceRoomRequest.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomRequest.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomRequest.cs",
@@ -605,288 +320,59 @@
               "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:12:25.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T18:12:25.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateConferenceRoomCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:35:28.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UpdateConferenceRoomCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:54:33.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ConferenceRoomEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:16:44.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BookingEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:21:43.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:06:48.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DeleteConferenceRoomRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:53:15.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DeleteConferenceRoomHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:47:50.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DeleteConferenceRoomCommand.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:45:53.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ConferenceRoomAddServiceEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T10:05:08.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AddServiceEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:19:47.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UpdateConferenceRoomRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:44:06.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T13:32:54.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IAddServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:27:10.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ConferenceRoomAddService.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
+              "DocumentIndex": 6,
+              "Title": "CreateConferenceRoomCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\CreateConferenceRoom\\CreateConferenceRoomCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:47:05.099Z"
+              "WhenOpened": "2024-09-21T13:44:07.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\AssemblyReference.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\AssemblyReference.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DI.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\DI.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DI.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\DI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:35:56.707Z"
+              "WhenOpened": "2024-09-22T20:34:35.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Data\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Data\\IUnitOfWork.cs",
               "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Data\\IUnitOfWork.cs",
               "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Data\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T13:37:22.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\UnitOfWork.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:32:41.704Z"
+              "WhenOpened": "2024-09-21T13:36:41.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IQuery.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:32:00.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:31:24.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:30:51.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:26:24.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ValueObject.cs",
-              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\ValueObject.cs",
-              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\ValueObject.cs",
-              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\ValueObject.cs",
-              "RelativeToolTip": "ConferenceRoomsReservation.Core\\ValueObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:06:54.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 10,
               "Title": "AddService.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\AddService.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\AddService.cs",
@@ -898,7 +384,499 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Repositories\\BookingRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAvwCgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:01:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateBookingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:05:32.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:05:03.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetRoomsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:10:56.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetRoomsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:49:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetRoomsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQueryHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:17:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingTime.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\BookingTime.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:21:54.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetRoomResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:40:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetRoomsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\GetRoomsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:08:32.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddServicesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Queries\\GetRooms\\AddServicesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:48:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateConferenceRoomRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:44:06.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateConferenceRoomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:54:33.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IConferenceRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IConferenceRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:27:29.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateConferenceRoomCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\UpdateConferenceRoom\\UpdateConferenceRoomCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:35:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteConferenceRoomRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:53:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteConferenceRoomHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:47:50.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteConferenceRoomCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\ConferenceRoom\\Commands\\DeleteConferenceRoom\\DeleteConferenceRoomCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:45:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConferenceRoom.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:15:08.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Shared\\Error.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Shared\\Error.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Shared\\Error.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Shared\\Error.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:57:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConferenceRoomConfiguraton.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomConfiguraton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:50:17.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\BookingConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:56:49.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\AddServiceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:28:58.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConferenceRoomAddServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Configurations\\ConferenceRoomAddServiceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:06:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\DataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:23:42.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateBookingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Booking\\Commands\\CreateBooking\\CreateBookingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:06:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:18:30.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ConferenceRoomEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:16:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\BookingEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:21:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\Abstractions\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:06:48.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConferenceRoomAddServiceEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\ConferenceRoomAddServiceEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:05:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddServiceEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Entities\\AddServiceEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:19:47.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Presentation\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:32:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAddServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IAddServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:27:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ConferenceRoomAddService.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Core\\Models\\ConferenceRoomAddService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:47:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:35:56.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:32:41.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:32:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:31:24.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:30:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.DataAccess\\Abstractions\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:26:24.439Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 51,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\ValueObject.cs",
+              "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\ValueObject.cs",
+              "RelativeToolTip": "ConferenceRoomsReservation.Core\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:06:54.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
               "Title": "DataBaseContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Migrations\\DataBaseContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Migrations\\DataBaseContextModelSnapshot.cs",
@@ -910,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "20240921101523_Create ConferenceRoomAddServiceEntity table.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Migrations\\20240921101523_Create ConferenceRoomAddServiceEntity table.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Migrations\\20240921101523_Create ConferenceRoomAddServiceEntity table.cs",
@@ -922,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.Core\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.Core\\Models\\Booking.cs",
@@ -934,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "20240920194712_Initial Create.cs",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation.DataAccess\\Migrations\\20240920194712_Initial Create.cs",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation.DataAccess\\Migrations\\20240920194712_Initial Create.cs",
@@ -946,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation\\appsettings.json",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation\\appsettings.json",
@@ -958,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ConferenceRoomsReservation\\ConferenceRoomsReservation\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ConferenceRoomsReservation\\appsettings.Development.json",

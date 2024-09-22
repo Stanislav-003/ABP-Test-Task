@@ -27,6 +27,8 @@ public sealed class UpdateConferenceRoomCommandHandler : IRequestHandler<UpdateC
             request.basePricePerHour,
             request.addServiceIds);
 
+        await _unitOfWork.SaveChangesAsync(cancellationToken);
+
         return updateResult.IsFailure
             ? Result.Failure<string>(updateResult.Error)
             : Result.Success("Conference room updated successfully.");

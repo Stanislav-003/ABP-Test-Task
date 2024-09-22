@@ -45,11 +45,6 @@ public class BookingTime : ValueObject
         return new BookingTime(year, month, day, hours, minutes);
     }
 
-    public override string ToString()
-    {
-        return $"{Year}/{Month}/{Day}/{Hours}/{Minutes}";
-    }
-
     protected override IEnumerable<object> GetEqualityComponents()
     {
         yield return Year;

@@ -5,15 +5,13 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceRoomsReservation", "ConferenceRoomsReservation\ConferenceRoomsReservation.csproj", "{FD65C1D7-4706-49BC-9361-6264743603A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceRoomsReservation.Application", "ConferenceRoomsReservation.Application\ConferenceRoomsReservation.Application.csproj", "{8C8B1888-6467-4409-82AA-DF0C0C9DB262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceRoomsReservation.Application", "ConferenceRoomsReservation.Application\ConferenceRoomsReservation.Application.csproj", "{8C8B1888-6467-4409-82AA-DF0C0C9DB262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceRoomsReservation.Core", "ConferenceRoomsReservation.Core\ConferenceRoomsReservation.Core.csproj", "{06325992-CDF4-4091-97DF-D5A71B435ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceRoomsReservation.Core", "ConferenceRoomsReservation.Core\ConferenceRoomsReservation.Core.csproj", "{06325992-CDF4-4091-97DF-D5A71B435ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceRoomsReservation.DataAccess", "ConferenceRoomsReservation.DataAccess\ConferenceRoomsReservation.DataAccess.csproj", "{72B9C887-FDCF-4491-9859-667792EEF2B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceRoomsReservation.DataAccess", "ConferenceRoomsReservation.DataAccess\ConferenceRoomsReservation.DataAccess.csproj", "{72B9C887-FDCF-4491-9859-667792EEF2B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceRoomsReservation.Presentation", "ConferenceRoomsReservation.Presentation\ConferenceRoomsReservation.Presentation.csproj", "{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceRoomsReservation.Infrastructure", "ConferenceRoomsReservation.Infrastructure\ConferenceRoomsReservation.Infrastructure.csproj", "{E005D344-8FA2-4F28-A858-F9C75ED8A014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceRoomsReservation.Presentation", "ConferenceRoomsReservation.Presentation\ConferenceRoomsReservation.Presentation.csproj", "{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CFBE838-4525-4E4A-AE19-2E5D4AF9A37F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E005D344-8FA2-4F28-A858-F9C75ED8A014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E005D344-8FA2-4F28-A858-F9C75ED8A014}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E005D344-8FA2-4F28-A858-F9C75ED8A014}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E005D344-8FA2-4F28-A858-F9C75ED8A014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
