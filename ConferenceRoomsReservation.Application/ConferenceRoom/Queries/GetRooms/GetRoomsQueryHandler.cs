@@ -16,12 +16,21 @@ public sealed class GetRoomsQueryHandler : IQueryHandler<GetRoomsQuery, GetRooms
 
     public async Task<Result<GetRoomsResponse>> Handle(GetRoomsQuery request, CancellationToken cancellationToken)
     {
-        var date = BookingTime.Create(request.year, request.month, request.day, request.hours, request.minutes);
+        var date = BookingTime.Create(
+            request.year, 
+            request.month, 
+            request.day, 
+            request.hours, 
+            request.minutes);
+
+        if (date.IsFailure)
+        {
+            return Result.Failure<GetRoomsResponse>(date.Error.Message);
+        }
 
         var availableRoomsResult = await _conferenceRoomRepository.FindAvailableRoomsAsync(
             date.Value,
-            request.startTime,
-            request.endTime,
+            request.durationHours,
             request.requiredCapacity);
 
         if (availableRoomsResult.IsFailure)

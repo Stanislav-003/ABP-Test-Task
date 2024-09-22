@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ConferenceRoomsReservation.Application\ConferenceRoomsReservation.Application.csproj" />
     <ProjectReference Include="..\ConferenceRoomsReservation.DataAccess\ConferenceRoomsReservation.DataAccess.csproj" />
+    <ProjectReference Include="..\ConferenceRoomsReservation.Presentation\ConferenceRoomsReservation.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

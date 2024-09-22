@@ -10,3 +10,11 @@ C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Pre
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\obj\Debug\net8.0\refint\ConferenceRoomsReservation.Presentation.dll
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\obj\Debug\net8.0\ConferenceRoomsReservation.Presentation.pdb
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\obj\Debug\net8.0\ref\ConferenceRoomsReservation.Presentation.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.Application.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.Core.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.DataAccess.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.Application.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.Core.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\bin\Debug\net8.0\ConferenceRoomsReservation.DataAccess.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\obj\Debug\net8.0\ConferenceRoomsReservation.Presentation.sourcelink.json
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Presentation\obj\Debug\net8.0\Conferen.11340111.Up2Date

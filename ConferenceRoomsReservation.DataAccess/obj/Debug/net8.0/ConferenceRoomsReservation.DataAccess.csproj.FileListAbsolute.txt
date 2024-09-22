@@ -15,3 +15,4 @@ C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Dat
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.DataAccess\obj\Debug\net8.0\ConferenceRoomsReservation.DataAccess.pdb
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.DataAccess\obj\Debug\net8.0\ConferenceRoomsReservation.DataAccess.genruntimeconfig.cache
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.DataAccess\obj\Debug\net8.0\ref\ConferenceRoomsReservation.DataAccess.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.DataAccess\obj\Debug\net8.0\ConferenceRoomsReservation.DataAccess.sourcelink.json

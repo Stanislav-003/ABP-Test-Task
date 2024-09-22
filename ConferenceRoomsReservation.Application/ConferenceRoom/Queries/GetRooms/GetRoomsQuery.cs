@@ -8,7 +8,6 @@ public sealed record GetRoomsQuery(
     int month,
     int day,
     int hours,
+    double durationHours,
     int minutes,
-    TimeSpan startTime,
-    TimeSpan endTime,
     int requiredCapacity) : IQuery<GetRoomsResponse>;

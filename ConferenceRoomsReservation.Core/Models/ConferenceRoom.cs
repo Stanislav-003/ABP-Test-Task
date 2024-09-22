@@ -30,7 +30,7 @@ public class ConferenceRoom : Entity<Guid>
         int capacity,
         decimal basePricePerHour)
     {
-        if (string.IsNullOrWhiteSpace(name) == false || name.Length > MAX_NAME_LENGTH)
+        if (string.IsNullOrWhiteSpace(name) != false || name.Length > MAX_NAME_LENGTH)
             return Errors.General.InvalidLength("name");
 
         if (capacity < 0 || capacity > MAX_CAPACITY_VALUE)

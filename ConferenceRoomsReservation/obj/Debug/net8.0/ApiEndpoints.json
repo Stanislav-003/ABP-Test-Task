@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "ContainingType": "ConferenceRoomsReservation.Presentation.Controllers.ConferenceRoomsController",
+    "Method": "AddConferenceRoom",
+    "RelativePath": "add-conference-room",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ConferenceRoomsReservation.Application.ConferenceRoom.Commands.CreateConferenceRoom.CreateConferenceRoomRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConferenceRoomsReservation.Presentation.Controllers.ConferenceRoomsController",
+    "Method": "GetAvailableRooms",
+    "RelativePath": "available-rooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "month",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "day",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "hours",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "durationHours",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "minutes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "requiredCapacity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConferenceRoomsReservation.Presentation.Controllers.BookingController",
+    "Method": "BookRoom",
+    "RelativePath": "book-room",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ConferenceRoomsReservation.Application.Booking.Commands.CreateBooking.CreateBookingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConferenceRoomsReservation.Presentation.Controllers.ConferenceRoomsController",
+    "Method": "DeleteConferenceRoom",
+    "RelativePath": "delete-conference-room/{conferenceRoomId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "conferenceRoomId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConferenceRoomsReservation.Presentation.Controllers.ConferenceRoomsController",
+    "Method": "UpdateConferenceRoom",
+    "RelativePath": "update-conference-room",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ConferenceRoomsReservation.Application.ConferenceRoom.Commands.UpdateConferenceRoom.UpdateConferenceRoomRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

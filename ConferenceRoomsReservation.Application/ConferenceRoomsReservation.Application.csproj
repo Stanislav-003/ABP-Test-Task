@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Booking\Commands\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ConferenceRoomsReservation.Core\ConferenceRoomsReservation.Core.csproj" />
     <ProjectReference Include="..\ConferenceRoomsReservation.DataAccess\ConferenceRoomsReservation.DataAccess.csproj" />
   </ItemGroup>

@@ -33,7 +33,7 @@ public class ConferenceRoomRepository : IConferenceRoomRepository
         };
 
         _dataBaseContext.ConferenceRooms.Add(conferenceRoom);
-        
+
         await _dataBaseContext.SaveChangesAsync();
 
         return Result.Success<Guid, Error>(conferenceRoom.Id);
@@ -101,8 +101,7 @@ public class ConferenceRoomRepository : IConferenceRoomRepository
 
     public async Task<Result<List<ConferenceRoomEntity>, Error>> FindAvailableRoomsAsync(
         BookingTime date,
-        TimeSpan startTime,
-        TimeSpan endTime,
+        double durationHours,
         int requiredCapacity)
     {
         var availableRooms = await _dataBaseContext.ConferenceRooms
@@ -114,8 +113,8 @@ public class ConferenceRoomRepository : IConferenceRoomRepository
             .Where(b => b.BookingTime.Year == date.Year &&
                         b.BookingTime.Month == date.Month &&
                         b.BookingTime.Day == date.Day &&
-                        ((b.BookingTime.Hours < endTime.TotalHours && b.BookingTime.Hours + b.Duration.Hours > startTime.TotalHours) ||
-                         (b.BookingTime.Hours + b.Duration.Hours > startTime.TotalHours && b.BookingTime.Hours < endTime.TotalHours)))
+                        ((b.BookingTime.Hours < date.Hours + durationHours && b.BookingTime.Hours + b.Duration.Hours > date.Hours) ||
+                        (b.BookingTime.Hours + b.Duration.Hours > date.Hours && b.BookingTime.Hours < date.Hours + durationHours)))
             .Select(b => b.ConferenceRoomId)
             .ToListAsync();
 

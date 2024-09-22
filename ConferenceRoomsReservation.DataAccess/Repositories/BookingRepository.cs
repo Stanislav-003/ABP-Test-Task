@@ -22,13 +22,15 @@ public class BookingRepository : IBookingRepository
         TimeSpan duration,
         List<Guid> selectedServiceIds)
     {
+        // Перевірка наявності залу
         var conferenceRoom = await _dataBaseContext.ConferenceRooms
             .Include(cr => cr.ConferenceRoomAddServices)
             .FirstOrDefaultAsync(cr => cr.Id == conferenceRoomId);
 
         if (conferenceRoom == null)
-            return Errors.General.NotFound(conferenceRoomId);
+            return Errors.General.NotFound(conferenceRoomId); // Якщо зал не знайдений
 
+        // Перевіряємо чи зал вже заброньований на цей час
         var isRoomBooked = await _dataBaseContext.Bookings
             .AnyAsync(b => b.ConferenceRoomId == conferenceRoomId &&
                            b.BookingTime.Year == bookingTime.Year &&
@@ -40,13 +42,35 @@ public class BookingRepository : IBookingRepository
                              b.BookingTime.Hours < bookingTime.Hours + duration.Hours)));
 
         if (isRoomBooked)
-            return Errors.General.ValueIsInvalid(); // Зал уже забронирован на это время
+            return Errors.General.ValueIsInvalid(); // Якщо зал вже заброньований на цей час
 
-        decimal totalPrice = conferenceRoom.BasePricePerHour * (decimal)duration.TotalHours;
+        decimal totalPrice = 0;
+        decimal basePrice = conferenceRoom.BasePricePerHour;
 
+        // розрахунок вартості оренди
+        for (var currentHour = bookingTime.Hours; currentHour < bookingTime.Hours + duration.TotalHours; currentHour++)
+        {
+            if (currentHour >= 6 && currentHour < 9)
+                totalPrice += basePrice * 0.9m; // ранкові години (знижка 10%)
+            else if (currentHour >= 9 && currentHour < 12)
+                totalPrice += basePrice; // стандартні години
+            else if (currentHour >= 12 && currentHour < 14)
+                totalPrice += basePrice * 1.15m; // пікові години (націнка 15%)
+            else if (currentHour >= 14 && currentHour < 18)
+                totalPrice += basePrice; // стандартні години
+            else if (currentHour >= 18 && currentHour < 23)
+                totalPrice += basePrice * 0.8m; // вечірні години (знижка 20%)
+            else
+                totalPrice += basePrice; // усі інші години
+        }
+
+        // Додавання вартості обраних послуг
         var selectedServices = await _dataBaseContext.Services
             .Where(s => selectedServiceIds.Contains(s.Id))
             .ToListAsync();
+
+        if (selectedServices == null || selectedServices.Count == 0)
+            return Errors.General.NotFound("Selected services not found");
 
         totalPrice += selectedServices.Sum(s => s.Price);
 

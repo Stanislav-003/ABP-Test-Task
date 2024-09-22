@@ -142,3 +142,8 @@ C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\MediatR.dll
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\ConferenceRoomsReservation.Application.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\ConferenceRoomsReservation.Presentation.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\ConferenceRoomsReservation.Application.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\bin\Debug\net8.0\ConferenceRoomsReservation.Presentation.pdb
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation\obj\Debug\net8.0\ConferenceRoomsReservation.sourcelink.json

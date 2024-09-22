@@ -10,3 +10,4 @@ C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Cor
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\refint\ConferenceRoomsReservation.Core.dll
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.pdb
 C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ref\ConferenceRoomsReservation.Core.dll
+C:\Users\sever\Desktop\ConferenceRoomsReservation\ConferenceRoomsReservation.Core\obj\Debug\net8.0\ConferenceRoomsReservation.Core.sourcelink.json
